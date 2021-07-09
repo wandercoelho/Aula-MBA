@@ -1,0 +1,22 @@
+.textInput {
+  font-size: 12px;
+  align-items: center;
+  margin: 10px 10px 10px;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.button {
+  margin-top: 20px;
+  width: 90%;
+  margin-left: 15px;
+}
+
+.buttonText {
+  font-size: small;
+}
+
+.text {
+  border-bottom-width: 5em;
+}
+
